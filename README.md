@@ -1,5 +1,7 @@
 # NephroGuard AI - Intelligent Kidney Risk Alert System
 
+[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=bellamkondasivakesava-cmd/kidney_failure_-predection&branch=main&mainModule=app.py)
+
 NephroGuard AI is a high-fidelity, professional healthcare web application designed to predict kidney failure risk using pre-trained Machine Learning models. Built using **Python and Streamlit**, it enables clinicians to register accounts, manage patients, run diagnostic simulations, trigger automated high-risk sirens, consult an AI expert chatbot, and download professional PDF clinical reports.
 
 ---
